@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\ReadDataFromUser\ReadDataFromUser\bin\Debug\net6.0\ReadDataFromUser.exe
+C:\Users\Usuario\source\repos\ReadDataFromUser\ReadDataFromUser\bin\Debug\net6.0\ReadDataFromUser.deps.json
+C:\Users\Usuario\source\repos\ReadDataFromUser\ReadDataFromUser\bin\Debug\net6.0\ReadDataFromUser.runtimeconfig.json
+C:\Users\Usuario\source\repos\ReadDataFromUser\ReadDataFromUser\bin\Debug\net6.0\ReadDataFromUser.dll
+C:\Users\Usuario\source\repos\ReadDataFromUser\ReadDataFromUser\bin\Debug\net6.0\ReadDataFromUser.pdb
+C:\Users\Usuario\source\repos\ReadDataFromUser\ReadDataFromUser\obj\Debug\net6.0\ReadDataFromUser.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\ReadDataFromUser\ReadDataFromUser\obj\Debug\net6.0\ReadDataFromUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\ReadDataFromUser\ReadDataFromUser\obj\Debug\net6.0\ReadDataFromUser.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\ReadDataFromUser\ReadDataFromUser\obj\Debug\net6.0\ReadDataFromUser.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\ReadDataFromUser\ReadDataFromUser\obj\Debug\net6.0\ReadDataFromUser.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ReadDataFromUser\ReadDataFromUser\obj\Debug\net6.0\ReadDataFromUser.dll
+C:\Users\Usuario\source\repos\ReadDataFromUser\ReadDataFromUser\obj\Debug\net6.0\refint\ReadDataFromUser.dll
+C:\Users\Usuario\source\repos\ReadDataFromUser\ReadDataFromUser\obj\Debug\net6.0\ReadDataFromUser.pdb
+C:\Users\Usuario\source\repos\ReadDataFromUser\ReadDataFromUser\obj\Debug\net6.0\ReadDataFromUser.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\ReadDataFromUser\ReadDataFromUser\obj\Debug\net6.0\ref\ReadDataFromUser.dll

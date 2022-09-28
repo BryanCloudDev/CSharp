@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\Http\Http\bin\Debug\net6.0\Http.exe
+C:\Users\Usuario\source\repos\Http\Http\bin\Debug\net6.0\Http.deps.json
+C:\Users\Usuario\source\repos\Http\Http\bin\Debug\net6.0\Http.runtimeconfig.json
+C:\Users\Usuario\source\repos\Http\Http\bin\Debug\net6.0\Http.dll
+C:\Users\Usuario\source\repos\Http\Http\bin\Debug\net6.0\Http.pdb
+C:\Users\Usuario\source\repos\Http\Http\obj\Debug\net6.0\Http.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Http\Http\obj\Debug\net6.0\Http.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Http\Http\obj\Debug\net6.0\Http.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Http\Http\obj\Debug\net6.0\Http.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Http\Http\obj\Debug\net6.0\Http.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Http\Http\obj\Debug\net6.0\Http.dll
+C:\Users\Usuario\source\repos\Http\Http\obj\Debug\net6.0\refint\Http.dll
+C:\Users\Usuario\source\repos\Http\Http\obj\Debug\net6.0\Http.pdb
+C:\Users\Usuario\source\repos\Http\Http\obj\Debug\net6.0\Http.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\Http\Http\obj\Debug\net6.0\ref\Http.dll

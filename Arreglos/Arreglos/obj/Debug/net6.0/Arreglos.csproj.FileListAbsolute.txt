@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\Arreglos\Arreglos\bin\Debug\net6.0\Arreglos.exe
+C:\Users\Usuario\source\repos\Arreglos\Arreglos\bin\Debug\net6.0\Arreglos.deps.json
+C:\Users\Usuario\source\repos\Arreglos\Arreglos\bin\Debug\net6.0\Arreglos.runtimeconfig.json
+C:\Users\Usuario\source\repos\Arreglos\Arreglos\bin\Debug\net6.0\Arreglos.dll
+C:\Users\Usuario\source\repos\Arreglos\Arreglos\bin\Debug\net6.0\Arreglos.pdb
+C:\Users\Usuario\source\repos\Arreglos\Arreglos\obj\Debug\net6.0\Arreglos.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Arreglos\Arreglos\obj\Debug\net6.0\Arreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Arreglos\Arreglos\obj\Debug\net6.0\Arreglos.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Arreglos\Arreglos\obj\Debug\net6.0\Arreglos.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Arreglos\Arreglos\obj\Debug\net6.0\Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Arreglos\Arreglos\obj\Debug\net6.0\Arreglos.dll
+C:\Users\Usuario\source\repos\Arreglos\Arreglos\obj\Debug\net6.0\refint\Arreglos.dll
+C:\Users\Usuario\source\repos\Arreglos\Arreglos\obj\Debug\net6.0\Arreglos.pdb
+C:\Users\Usuario\source\repos\Arreglos\Arreglos\obj\Debug\net6.0\Arreglos.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\Arreglos\Arreglos\obj\Debug\net6.0\ref\Arreglos.dll

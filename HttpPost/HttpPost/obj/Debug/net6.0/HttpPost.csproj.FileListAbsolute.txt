@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\HttpPost\HttpPost\bin\Debug\net6.0\HttpPost.exe
+C:\Users\Usuario\source\repos\HttpPost\HttpPost\bin\Debug\net6.0\HttpPost.deps.json
+C:\Users\Usuario\source\repos\HttpPost\HttpPost\bin\Debug\net6.0\HttpPost.runtimeconfig.json
+C:\Users\Usuario\source\repos\HttpPost\HttpPost\bin\Debug\net6.0\HttpPost.dll
+C:\Users\Usuario\source\repos\HttpPost\HttpPost\bin\Debug\net6.0\HttpPost.pdb
+C:\Users\Usuario\source\repos\HttpPost\HttpPost\obj\Debug\net6.0\HttpPost.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\HttpPost\HttpPost\obj\Debug\net6.0\HttpPost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\HttpPost\HttpPost\obj\Debug\net6.0\HttpPost.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\HttpPost\HttpPost\obj\Debug\net6.0\HttpPost.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\HttpPost\HttpPost\obj\Debug\net6.0\HttpPost.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\HttpPost\HttpPost\obj\Debug\net6.0\HttpPost.dll
+C:\Users\Usuario\source\repos\HttpPost\HttpPost\obj\Debug\net6.0\refint\HttpPost.dll
+C:\Users\Usuario\source\repos\HttpPost\HttpPost\obj\Debug\net6.0\HttpPost.pdb
+C:\Users\Usuario\source\repos\HttpPost\HttpPost\obj\Debug\net6.0\HttpPost.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\HttpPost\HttpPost\obj\Debug\net6.0\ref\HttpPost.dll
